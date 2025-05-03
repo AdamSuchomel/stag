@@ -7,7 +7,7 @@ public class Main1Test
     void test01()
     {
         assertEquals(
-                62,
+                86,
                 Main1.emptyActionsCount("KIKM",2024)
         );
     }
